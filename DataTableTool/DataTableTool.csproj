@@ -39,8 +39,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Exception\DataTableException.Const.cs" />
+    <Compile Include="Exception\DataTableException.cs" />
+    <Compile Include="Field\BooleanField.cs" />
+    <Compile Include="Field\Field.cs" />
+    <Compile Include="Field\FloatField.cs" />
     <Compile Include="Field\IField.cs" />
+    <Compile Include="Field\Int32Field.cs" />
+    <Compile Include="Field\StringField.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sheet\Cell.cs" />
+    <Compile Include="Sheet\CellType.cs" />
+    <Compile Include="Sheet\ICell.cs" />
+    <Compile Include="Sheet\IRow.cs" />
+    <Compile Include="Sheet\ISheet.cs" />
+    <Compile Include="Sheet\Row.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
