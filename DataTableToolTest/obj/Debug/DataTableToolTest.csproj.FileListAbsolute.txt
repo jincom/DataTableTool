@@ -1,0 +1,11 @@
+C:\Users\Administrator\RiderProjects\DataTableTool\DataTableToolTest\obj\Debug\DataTableToolTest.csprojAssemblyReference.cache
+C:\Users\Administrator\RiderProjects\DataTableTool\DataTableToolTest\obj\Debug\DataTableToolTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\RiderProjects\DataTableTool\DataTableToolTest\bin\Debug\DataTableToolTest.dll
+C:\Users\Administrator\RiderProjects\DataTableTool\DataTableToolTest\bin\Debug\DataTableToolTest.pdb
+C:\Users\Administrator\RiderProjects\DataTableTool\DataTableToolTest\bin\Debug\DataTableTool.dll
+C:\Users\Administrator\RiderProjects\DataTableTool\DataTableToolTest\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\RiderProjects\DataTableTool\DataTableToolTest\bin\Debug\DataTableTool.pdb
+C:\Users\Administrator\RiderProjects\DataTableTool\DataTableToolTest\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\RiderProjects\DataTableTool\DataTableToolTest\obj\Debug\DataTableToolTest.csproj.CopyComplete
+C:\Users\Administrator\RiderProjects\DataTableTool\DataTableToolTest\obj\Debug\DataTableToolTest.dll
+C:\Users\Administrator\RiderProjects\DataTableTool\DataTableToolTest\obj\Debug\DataTableToolTest.pdb
